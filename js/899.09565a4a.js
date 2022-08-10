@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkemarket"]=globalThis["webpackChunkemarket"]||[]).push([[899],{9899:(e,a,n)=>{n.r(a),n.d(a,{default:()=>i});var r=n(9835);function t(e,a,n,t,s,u){return(0,r.wg)(),(0,r.iD)("div")}const s=(0,r.aZ)({name:"IndexPage"});var u=n(1639);const c=(0,u.Z)(s,[["render",t]]),i=c}}]);
