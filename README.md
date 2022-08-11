@@ -6,6 +6,10 @@
 
 - https://emarket.pollauf.net/
 
+- Login: admin
+
+- Senha: admin
+
 ## Considerações gerais
 
 ### Front-end
