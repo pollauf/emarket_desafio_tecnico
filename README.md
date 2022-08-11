@@ -1,6 +1,6 @@
 # E-Market Desafio Técnico PHP
 
-- **Solicitação Original**: Programa de mercado com "Cadastro de Tipo de Produto" com percentual de imposto, "Cadastro de Produto" e "Tela de Venda" com seleção de produtos e suas respectivas quantidades, totalizando preço e impostos, permitindo salvar a venda.
+- **Solicitação Original**: Programa de mercado com *Cadastro de Tipo de Produto* com percentual de impostos, *Cadastro de Produto* e *Tela de Venda* com seleção de produtos e suas respectivas quantidades, totalizando preço e impostos, permitindo salvar a venda.
 
 ## Para facilitar a validação, foi feito deploy para um servidor online:
 
