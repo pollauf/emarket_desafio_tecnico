@@ -36,9 +36,7 @@
 
 - Clone esse repositório
 
-- Verifique se os módulos do postgree estão habilitados no php.ini, sendo eles: 
-- **extension=php_pdo_pgsql.dll**
-- **extension=php_pgsql.dll**
+- Certifique-se que os módulos do postgree estão habilitados no php.ini, sendo eles: *extension=php_pdo_pgsql.dll* e *extension=php_pgsql.dll*
 
 - Crie uma base de dados postgree e execute **pg_restore** no arquivo de dump **emarket_postgres.dump**
 
