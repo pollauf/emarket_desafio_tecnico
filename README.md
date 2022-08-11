@@ -50,8 +50,6 @@
 
 - Abra o navegador em **localhost:8080** e faça login com as credenciais:
 
-- Login: admin
+- *Login*: admin; *Senha*: admin
 
-- Senha: admin
-
-- Pronto, o sistema estará pronto para ser usado!
+- Pronto, o sistema está pronto para ser usado!
