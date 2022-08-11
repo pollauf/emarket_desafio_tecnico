@@ -48,10 +48,10 @@
 
 - Execute **php -S localhost:8080** no diretório raiz desse projeto
 
-- Abra o navegador em *localhost:8080* e faça login com as credenciais:
+- Abra o navegador em **localhost:8080** e faça login com as credenciais:
 
 - Login: admin
 
 - Senha: admin
 
-- Pronto!
+- Pronto, o sistema estará pronto para ser usado!
