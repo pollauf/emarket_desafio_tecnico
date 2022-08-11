@@ -6,7 +6,7 @@
 
 - https://emarket.pollauf.net/
 
-## Coniderações gerais
+## Considerações gerais
 
 ### Front-end
 
@@ -32,7 +32,7 @@
 
 - A conexão com o banco de dados é configurada pelo arquivo **api/config/database.php**
 
-## Como testar em ambiente local
+### Como testar em ambiente local
 
 - Clone esse repositório
 
