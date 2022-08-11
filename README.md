@@ -14,7 +14,7 @@
 
 ### Front-end
 
-- Os arquivos e pastas do diretório raiz, com exceção da pasta /api, fazem parte do build (spa) do Vue.js
+- Os arquivos e pastas do diretório raiz, com exceção da pasta /api, fazem parte do build (spa) do **Vue.js**
 
 - O repositório com o projeto front-end do **Vue.js** é o seguinte:
 
@@ -40,9 +40,9 @@
 
 - Clone ou baixe esse repositório
 
-- Certifique-se de que os módulos do postgree estão habilitados no php.ini, sendo eles: *extension=php_pdo_pgsql.dll* e *extension=php_pgsql.dll*
+- Certifique-se de que os módulos do postgre estão habilitados no php.ini, sendo eles: *extension=php_pdo_pgsql.dll* e *extension=php_pgsql.dll*
 
-- Crie uma base de dados postgree e execute **pg_restore** no arquivo de dump **emarket_postgres.dump**
+- Crie uma base de dados postgre e execute **pg_restore** no arquivo de dump **emarket_postgres.dump**
 
 - Configure a conexão no arquivo **api/config/database.php**
 
@@ -52,4 +52,4 @@
 
 - **Login**: admin | **Senha**: admin
 
-- Pronto, o sistema está pronto para ser usado!
+- O sistema está pronto para ser usado!

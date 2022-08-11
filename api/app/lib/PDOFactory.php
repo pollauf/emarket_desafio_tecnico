@@ -24,7 +24,7 @@ class PDOFactory
 
         $charset = '';
         if ($dbtype == 'mysql') {
-            $charset = 'charset=charset=utf8mb4';
+            $charset = 'charset=utf8mb4';
         }
 
         $pdo = new PDO("$dbtype:host=$host;port=$port;dbname=$database;$charset", $user, $password, $options);
